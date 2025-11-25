@@ -87,7 +87,6 @@ set NODE_OPTIONS=--openssl-legacy-provider
 pnpm start
 ```
 
-Once the client starts, it should open in your default web browser, allowing you to connect and start messaging.
 ---
 ## Working Demonstration
 https://drive.google.com/file/d/1LwxaSOxk4TCpSBxX7M7Uvezu-C6wFEKa/view?usp=sharing
